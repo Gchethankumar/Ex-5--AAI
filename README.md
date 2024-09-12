@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME : G Chethan Kumar</H3>
-<H3>ENTER YOUR REGISTER NO. : 212222240022</H3>
+<H3>NAME : G Chethan Kumar</H3>
+<H3>REGISTER NO. : 212222240022</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE : 16-03-2024</H3>
+<H3>DATE : </H3>
 <H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 <H3>Algorithm:</H3>
@@ -68,7 +68,8 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![Screenshot 2024-09-12 133339](https://github.com/user-attachments/assets/6eb6edf8-7b7a-498d-9a73-332a1e64a721)
+
+![Screenshot 2024-09-12 133339](https://github.com/user-attachments/assets/0f259055-6979-45a2-8063-a01d8190b8dd)
 
 <H3>Results:</H3>
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
